@@ -1,0 +1,79 @@
+{
+  "name": "book24-web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.1",
+    "web-vitals": "^0.2.4",
+    "@fortawesome/fontawesome-free-brands": "^5.0.13",
+    "@fortawesome/fontawesome-svg-core": "^1.2.31",
+    "@fortawesome/free-solid-svg-icons": "^5.15.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "@wojtekmaj/react-daterange-picker": "^3.0.0",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.3",
+    "browser-image-compression": "^1.0.12",
+    "chart": "^0.1.2",
+    "chart.js": "^2.9.3",
+    "date-fns": "^2.16.1",
+    "jquery": "^3.5.1",
+    "js-cookie": "^2.2.1",
+    "moment": "^2.29.0",
+    "naija-state-local-government": "^1.1.2",
+    "owl.carousel": "^2.3.4",
+    "react-alert": "^7.0.2",
+    "react-alert-template-basic": "^1.0.0",
+    "react-alice-carousel": "^2.0.2",
+    "react-bootstrap": "^1.4.0",
+    "react-calendar": "^3.1.0",
+    "react-date-range": "^1.1.3",
+    "react-datepicker": "^3.3.0",
+    "react-datetime": "^3.0.4",
+    "react-dnd": "^11.1.3",
+    "react-dnd-html5-backend": "^11.1.3",
+    "react-google-places-autocomplete": "^3.0.0",
+    "react-icons": "^3.11.0",
+    "react-image-gallery": "^1.0.8",
+    "react-images-upload": "^1.2.8",
+    "react-loader-spinner": "^3.1.14",
+    "react-owl-carousel": "^2.3.1",
+    "react-paystack": "^3.0.2",
+    "react-places-autocomplete": "^7.3.0",
+    "react-redux": "^7.2.2",
+    "react-select-search": "^2.1.1",
+    "react-tag-autocomplete": "^6.1.0",
+    "react-tag-input": "^6.4.3",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-react": "^2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
